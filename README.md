@@ -20,7 +20,7 @@ CSS3 (Media Queries, Flexbox, Grid)
 JavaScript (Vanilla JS / Framework like React if used)
 
 💡 How to Use
-Clone the repository:
+Clone the repository:https://vercel.com/mahaboobbashabashas-projects/responsive-fruits-and-vegetables
 
 bash
 Copy
